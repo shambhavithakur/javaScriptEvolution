@@ -82,6 +82,7 @@ header {
 .navigationMenu {
     position: fixed;
     left: 0;
+    top: 0;
     width: 100%;
     padding: 1rem 0 1rem 2rem;
     background-color: rgba(41, 21, 163, .95);
