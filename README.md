@@ -4,5 +4,3 @@ I had written the content for this page and developed a rudimentary design a few
 Highlights of this page:
 - The CSS Flexbox and Grid layouts give structure to the content
 - A combination of CSS techniques and JavaScript render the responsive navigation and animations
-
-To view the page, CTRL + click the following link: <a href='https://tshambhavi.github.io/javaScriptEvolution/' target='_blank'>The Evolution of JavaScript</a>.
